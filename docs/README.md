@@ -1,3 +1,4 @@
+[![Open Demo In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hubertsiuzdak/voice-conversion/blob/master/demo/Voice_Conversion.ipynb)
 # Adversarial Voice Conversion
 
 This repo contains implementation of voice conversion system based on WaveNet autoencoders. 
@@ -8,7 +9,10 @@ This code is built on top of the [NV-Wavenet](https://github.com/NVIDIA/nv-waven
 The encoder was added thus creating full autoencoder pathway. Simple discriminator with the gradient reversal layer was added in order to achieve domain adaptation effect.
 
 ![Architecture](/docs/architecture.png)
-Architecture of the voice conversion model
+
+## Usage
+
+You can find demo on the Colab. See the link at the top.
 
 
 
