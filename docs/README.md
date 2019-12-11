@@ -43,4 +43,14 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ```
+## Citation
+```
+@inproceedings{adversarialvoiceconversion,
+    title     = {Voice conversion using deep adversarial learning},
+    author    = {Hubert Siuzdak, Jakub Gałka},
+    booktitle = {9th Language & Technology Conference: Human Language Technologies as a Challenge for Computer Science and Linguistics},
+    year      = {2019},
+    pages     = {40-43}
+}
+```
 
