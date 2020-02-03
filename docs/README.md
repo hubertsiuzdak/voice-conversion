@@ -12,7 +12,7 @@ The encoder was added thus creating full autoencoder pathway. Simple discriminat
 
 ## Usage
 
-You can find demo on the Colab. See the link at the top.
+You can find demo on the Colab. See the [link](https://colab.research.google.com/github/hubertsiuzdak/voice-conversion/blob/master/demo/Voice_Conversion.ipynb). 
 
 ## Open Source License
 
