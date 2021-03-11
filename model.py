@@ -73,7 +73,7 @@ class Model(torch.nn.Module):
         super(Model, self).__init__()
         self.encoder = Encoder()
         self.domain_classifier = Discriminator(num_speakers)
-        self.decoders = torch.nn.ModuleList([Decoder(**model_config)] * num_speakers)
+        self.decoders = torch.nn.ModuleList([Decoder(**model_config) for _ in range(num_speakers)])
 
     def forward(self, sample, n_model, alpha):
         encoded = self.encoder(sample)
