@@ -1,3 +1,5 @@
+_This project is obsolete and no longer maintained. If you're looking for a voice conversion model see [this comment](https://github.com/hubertsiuzdak/voice-conversion/issues/4#issuecomment-954865171)._
+___
 [![Open Demo In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hubertsiuzdak/voice-conversion/blob/master/demo/Voice_Conversion.ipynb)
 # Adversarial Voice Conversion
 
